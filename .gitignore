@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+app/build/
+build/
+gradle/
+app/app.iml
+local.properties
+kbs-plugin-bxservice-freibierpos.iml
+gradlew.bat
+gradlew
